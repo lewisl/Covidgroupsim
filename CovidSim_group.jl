@@ -12,7 +12,7 @@
 
 __precompile__(true)
 
-module CovidSim
+module CovidSim_group
 
 # experimental
 using StaticArrays
